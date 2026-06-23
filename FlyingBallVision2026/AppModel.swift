@@ -1,9 +1,3 @@
-//
-//  AppModel.swift
-//  FlyingBallVision2026
-//
-//  Created by Douglas Jasper on 2026-06-22.
-//
 
 import SwiftUI
 
